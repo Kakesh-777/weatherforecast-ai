@@ -2,7 +2,7 @@
 LSTM-powered weather forecasting app for any city worldwide.
 
 ## Live Demo
-Link coming soon
+https://weatherforecast-ai.streamlit.app/
 
 ## Tech Stack
 Python · TensorFlow · Streamlit · Pandas · REST APIs
